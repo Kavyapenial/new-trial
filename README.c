@@ -5,4 +5,6 @@ void main()
   int b=3;
   c=a+b;
   printf("Sum of "%a"  + "%b "=" %c);
+  
 }
+
